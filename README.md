@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# MobiStore
+
+This application is a website buit with React to shop the refurbished mobiles in online.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
